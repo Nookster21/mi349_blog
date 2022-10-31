@@ -8,6 +8,7 @@ body{
 }
 header{
     text-align: center;
+    font-size: medium;
 }
 
 
@@ -18,6 +19,10 @@ nav{
 h2{
     font-size: 3em;
 
+}
+
+hr{
+    color: #6D123F;
 }
 
 /* Table */
