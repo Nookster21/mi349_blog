@@ -6,14 +6,23 @@ body{
     border-top: 60px solid #F7838D;
     background-color: #ffe3e6;
 }
+header{
+    text-align: center;
+}
+
+
+nav{
+    text-align: center;
+}
 
 h2{
     font-size: 3em;
+
 }
+
 /* Table */
 table{
     width: 50%;
-    
 }
 th{
     text-align: left;
