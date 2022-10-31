@@ -14,10 +14,11 @@ header{
 
 nav{
     text-align: center;
+    color: #6D123F;
 }
 a{
     text-decoration: none;
-    color: #6D123F;
+    
 }
 
 h2{
@@ -27,12 +28,6 @@ h2{
 h3{
     font-size: 2em;
 }
-
-.smallpic{
-    height: 150px;
-}
-
-
 
 
 /* Table */
