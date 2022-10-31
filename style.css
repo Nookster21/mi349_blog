@@ -3,7 +3,6 @@ body{
     margin: 40px;
     padding: 40px;
     color: #6D123F;
-    border-top: 60px solid #F7838D;
     background-color: #ffe3e6;
 }
 header{
@@ -15,7 +14,7 @@ header{
 
 nav{
     text-align: center;
-    
+
 }
 
 h2{
@@ -40,5 +39,5 @@ th{
 
 
 footer{
-    border-top: 30px solid #F7838D;
+    background: #F7838D;
 }
