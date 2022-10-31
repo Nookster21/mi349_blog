@@ -7,9 +7,8 @@ body{
     background-color: #ffe3e6;
 }
 
-header{
-    border: 1px #6D123F;
-    max-width: 100%;
+h1{
+    font-size: 4em;
 }
 footer{
     border-top: 30px solid #F7838D;
