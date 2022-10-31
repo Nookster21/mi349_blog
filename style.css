@@ -10,6 +10,14 @@ body{
 h2{
     font-size: 3em;
 }
+table{
+    width: 50%;
+    
+}
+th{
+    background-color: #F7838D;
+    color: #6D123F;
+}
 footer{
     border-top: 30px solid #F7838D;
 }
