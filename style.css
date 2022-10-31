@@ -10,14 +10,20 @@ body{
 h2{
     font-size: 3em;
 }
+/* Table */
 table{
     width: 50%;
     
 }
 th{
+    text-align: left;
     background-color: #F7838D;
     color: #6D123F;
 }
+/* Table */
+
+
+
 footer{
     border-top: 30px solid #F7838D;
 }
