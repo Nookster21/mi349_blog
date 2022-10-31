@@ -25,6 +25,13 @@ h3{
     font-size: 2em;
 }
 
+.Smallpicture{
+    width: min-content;
+}
+
+
+
+
 /* Table */
 table{
     width: 50%;
