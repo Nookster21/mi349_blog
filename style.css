@@ -6,6 +6,12 @@ body{
     border-top: 60px solid #F7838D;
     background-color: #ffe3e6;
 }
+.container {
+    width:150px;
+    height:200px;
+    border: 1px solid black;
+    position:relative;
+}
 footer{
     border-top: 30px solid #F7838D;
 }
