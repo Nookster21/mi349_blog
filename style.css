@@ -16,7 +16,11 @@ header{
     font-family: 'AgrandirGH', sans-serif;
 }
 
-
+.hellomi{
+    position: absolute;
+    height:auto ;
+    left:0px
+}
 nav {
     display: flex;
     flex-wrap: wrap;
