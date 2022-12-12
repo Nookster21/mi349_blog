@@ -27,7 +27,6 @@ nav {
     flex-wrap: wrap;
   }
   nav a {
-    position: fixed;
     text-decoration: none;
     display: block;
     padding: 20px 176px;
