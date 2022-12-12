@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'AgrandirGH';
-    src: url(Agrandir/Agrandir-GrandHeavy.otf);
+    src: url(Agrandir/Agrandir-Regular.otf);
 }
 
 body{
@@ -34,7 +34,7 @@ nav {
     background-color: #F7838D;
     color: #6D123F;
     margin: 0;
-    font-family: sans-serif;
+    font-family: 'AgrandirGH';
   }
   nav a:hover {
     background-color: #6D123F;
